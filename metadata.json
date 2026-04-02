@@ -1,0 +1,5 @@
+{
+  "name": "GeoTrainer",
+  "description": "A GeoGuessr training app with flashcards, quizzes, and lessons.",
+  "requestFramePermissions": []
+}
